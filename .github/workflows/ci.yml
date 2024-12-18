@@ -1,7 +1,7 @@
 name: Demo CI
 on:
   push:
-    branches: [ main ]
+    branches: [ develop ]
 
 jobs:
   build:
